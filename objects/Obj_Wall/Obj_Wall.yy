@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Water_To_Righ",
-  "eventList":[],
+  "%Name":"Obj_Wall",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Player","path":"objects/Player/Player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Water_To_Righ",
+  "name":"Obj_Wall",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -26,11 +28,11 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"Water_Top_Right",
-    "path":"sprites/Water_Top_Right/Water_Top_Right.yy",
+    "name":"Spr_Wall",
+    "path":"sprites/Spr_Wall/Spr_Wall.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

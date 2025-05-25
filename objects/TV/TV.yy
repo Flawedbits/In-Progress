@@ -1,15 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"Water_Bott",
-  "eventList":[],
+  "%Name":"TV",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Water_Bott",
+  "name":"TV",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"Obj_Wall",
+    "path":"objects/Obj_Wall/Obj_Wall.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -26,10 +31,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"Water_Bottom",
-    "path":"sprites/Water_Bottom/Water_Bottom.yy",
+    "name":"TV_City",
+    "path":"sprites/TV_City/TV_City.yy",
   },
   "spriteMaskId":null,
   "visible":true,

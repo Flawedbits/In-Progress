@@ -31,7 +31,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":16,
+  "height":32,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"33adf815-2592-4cb8-8d4e-95e88ff5f66e","blendMode":0,"displayName":"default","isLocked":false,"name":"33adf815-2592-4cb8-8d4e-95e88ff5f66e","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -41,7 +41,7 @@
   "origin":0,
   "parent":{
     "name":"Water_Grass",
-    "path":"folders/Sprites/Water_Grass.yy",
+    "path":"folders/Sprites/DEMO/Water_Grass.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
@@ -78,8 +78,8 @@
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
-    "seqHeight":16.0,
-    "seqWidth":16.0,
+    "seqHeight":32.0,
+    "seqWidth":32.0,
     "showBackdrop":true,
     "showBackdropImage":false,
     "timeUnits":1,
@@ -148,5 +148,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":16,
+  "width":32,
 }
