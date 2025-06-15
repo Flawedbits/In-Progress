@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Player_Idle",
-    "path":"sprites/Player_Idle/Player_Idle.yy",
+    "name":"Player_Down",
+    "path":"sprites/Player_Down/Player_Down.yy",
   },
   "spriteMaskId":null,
   "visible":true,
